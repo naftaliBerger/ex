@@ -1,6 +1,4 @@
-# Mine-Craft
-
-![Main Logo](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\mainlogo.png)
+![Main Logo](assets/mainlogo.png)
 
 **Mine-Craft** הוא משחק 2D בו השחקן יכול לחפור, לכרות ולבנות עולם משלו באמצעות כלים שונים. כל כלי מיועד למטרה ספציפית: גרזן לכריתת עצים, קנמל לכריתת סלעים, את החפירה לחפירת אדמה ודשא, ומספריים לכריתת עלים. השחקן אוסף משאבים ומשתמש בהם לבנייה בעולם המשחק הדינמי.
 
@@ -9,10 +7,10 @@
 ## 🎮 צילומי מסך
 
 **מסך פתיחה**  
-![Menu Screenshot](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\צילום מסך 2025-08-21 125018.png)
+![Menu Screenshot](screenshots/menu.png)
 
 **מסך משחק**  
-![Game Screenshot](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\צילום מסך 2025-08-21 125250.png)
+![Game Screenshot](screenshots/game.png)
 
 ---
 
