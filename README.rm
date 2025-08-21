@@ -1,0 +1,33 @@
+# Mine-Craft
+
+![Main Logo](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\mainlogo.png)
+
+**Mine-Craft** הוא משחק 2D בו השחקן יכול לחפור, לכרות ולבנות עולם משלו באמצעות כלים שונים. כל כלי מיועד למטרה ספציפית: גרזן לכריתת עצים, קנמל לכריתת סלעים, את החפירה לחפירת אדמה ודשא, ומספריים לכריתת עלים. השחקן אוסף משאבים ומשתמש בהם לבנייה בעולם המשחק הדינמי.
+
+---
+
+## 🎮 צילומי מסך
+
+**מסך פתיחה**  
+![Menu Screenshot](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\צילום מסך 2025-08-21 125018.png)
+
+**מסך משחק**  
+![Game Screenshot](C:\Users\USER\Desktop\Full Stack\backend\expressBasic\צילום מסך 2025-08-21 125250.png)
+
+---
+
+## ⚒️ תכונות עיקריות (Features)
+
+- עולם דו-ממדי עם אדמה, דשא, עצים וסלעים
+- מערכת כלים ייחודית לכל סוג פעולה
+- איסוף משאבים ויכולת לבנות באמצעותם
+- ממשק ידידותי עם בחירת כלים על המסך
+- שמירת מצב המשחק והמשך משחק
+
+---
+
+## 🛠️ התקנה (Installation)
+
+1. הורד או שכפל את הפרויקט:
+   ```bash
+   git clone https://github.com/username/mine-craft.git
